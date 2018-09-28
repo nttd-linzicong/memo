@@ -1,0 +1,145 @@
+C:\Users\tnd.sour\AppData\Roaming\sakura
+
+
+http://www.atmarkit.co.jp/ait/articles/0312/18/news002.html
+WSH
+https://msdn.microsoft.com/ja-jp/library/cc364460.aspx
+
+@IT
+Cloud
+http://www.atmarkit.co.jp/ait/subtop/server/
+
+http://handiya-lanka.xyz/linux/index.html
+
+
+https://news.mynavi.jp/article/20180306-594776/
+
+https://fossbytes.com/best-linux-distros-choosing-guide/
+
+・英字新聞
+http://www.英字新聞.jp/
+
+http://www.memorexmodz.com/wp/
+
+http://www.memorexmodz.com/
+
+・英語品詞
+https://mysuki.jp/english-parts-of-speech-19263
+
+・EXCEL shortcut
+https://office-hack.com/excel/shortcutkey-list/
+
+
+.Python
+https://www.python.org/
+https://www.python.org/doc/
+https://wiki.python.org/moin/BeginnersGuide
+https://docs.python.org/3/tutorial/index.html
+C:\pleiades_4.6.3\python\3\Doc
+C:\pleiades_4.6.3\python\2\Doc
+
+・MinGW
+http://www.mingw.org/
+
+・正規表現　sakura
+http://sakura-editor.sourceforge.net/htmlhelp/HLP000089.html
+
+■定型
+　・メール確認
+　・メール確認ーTND
+　・英字新聞
+　・英字単語
+
+
+■ToDo
+
+　・プリカ・Src
+
+　・UWSC
+　・WSH
+　・BAT　コマンドプロント
+　・PowerShell
+　・Python
+　
+　・FileServer内容確認
+　・ProC　ソースと設計書確認
+　・VB6の移行
+　・Linux
+
+■Linux
+
+
+■Cloud
+①雲とは
+　・コード雲
+　・Baidu雲
+　・Apple雲
+
+③Word
+　・AliCloud、Azure、AWS、GoogleCloud
+　・OpenStack
+　・Docker
+
+②Hot　Word
+　・BigData、IoT、AI、Cloud
+
+③？？
+　・Linghuoxing, security
+
+④Role Play
+　・Layer0, Cloud maker
+　・Layer1, Cloud user, system archi maker
+　・Layer2, system user, 
+
+①Skill
+　・MindMap
+　
+②カテゴリ
+　・Public
+　・Private
+　
+③自動化部署・テスト
+　・Ansible
+　・Terraform
+　・ServerSpec
+　
+④勉強
+　・AWS　Console　ハードコピー
+
+⑤ひとごと
+　・silu > 知識
+　・問題解決
+　
+⑥Saas
+　・SaaS
+　・PaaS
+　・？？？
+
+
+http://sakura-editor.sourceforge.net/htmlhelp/HLP000261.html
+
+
+■正規表現
+・スポーツ
+  champion|player
+・災害
+  fire|quake|typhoon
+・死亡
+  died
+・曜日
+　\wday\W
+・動詞
+　,\s\w+ing\W|(still|will|can|may)\s[\w-]+\W|after\s\w+ing\W|[\w-]+ed\W|was|has|were|have|won|rose|broke|became|made|been|hit|remove|brought
+・専有名詞
+　\s[A-Z]\w+
+・前置詞
+　\W(in|by|at|on|as|to|and|for|after|amid|from|since|including|while)\W
+・名詞、同位語
+  (?!,\s\w+ing)(?!,\s[0-9])(?:,.+,\s)
+
+
+■失敗から学んだ重要なことは、
+  経験豊富な第三者に相談して、自分にない視点でキャリアを見直すこと
+  目的・目標設定を必ずすること。必ずです。
+  学習経験者と一緒に学習スケジュールを作ること
+

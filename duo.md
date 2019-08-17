@@ -205,6 +205,9 @@
 171. The tourists were fascinated with exquisite scenery.
 172. The following passage was quoted from a well-known fable.
 173. Despite adversity, the architect achieved worldwide fame.
+
+# section 12
+
 174. His invention is superior to conventional equipment.
 175. The blind nurse devoted herself to caring for the elderly.
 176. The maid was dead tired of her household chores.
